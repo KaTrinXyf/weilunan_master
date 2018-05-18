@@ -5,9 +5,9 @@
 	    data = {
 	        rise: "一起看日出",
 	        down: "一起看日落",
-		    yours: "有一天，你出现了",
-		    together: "然后",
-		    rose: "IOU"
+		    yours: "伴随在你身旁",
+		    together: "看遍千山万水",
+		    rose: "手牵着手直到永远..."
 	    };
 
 	function render(element) {
